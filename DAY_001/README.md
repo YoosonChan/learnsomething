@@ -22,12 +22,13 @@
 
 1. 创建目录。选择自己喜欢的目录即可。
 2. 在目录中打开编辑器。进入到自己创建的目录之后，点击鼠标右键，出现右键菜单。菜单中有一个『通过Code打开』选项。点击选项，系统就会在该目录下打开vscode编辑器。
-    > 右键菜单效果：![avatar](./md_img/menu.png)
+    > 右键菜单效果：
+    ![avatar](https://github.com/YoosonChan/learnsomething/tree/master/DAY_001/md_img/menu.png)
 
     > tips: 右键菜单中含有『通过Code打开』选项的前提是，已经安装了vscode编辑器。
 
 #### 最终效果
-![avatar](./md_img/directory.png)
+![avatar](https://github.com/YoosonChan/learnsomething/tree/master/DAY_001/md_img/directory.png)
 
 #### 界面说明
 打开编辑器之后，效果如上图所示，如果是第一次安装会有一个welcome的文件会被打开，可能会看不到文件目录，此时就需要点击左上角文件列表选项按钮（按钮名字随便起的，认准那个图标就行）。点击之后就会出现效果图中的样子。
@@ -35,7 +36,7 @@
 
 ### 创建页面编写代码
 鼠标移至左侧目录，在你喜欢的目录的名称旁边会出现四个操作按钮，如图：
-![avatar](./md_img/create.png)
+![avatar](https://github.com/YoosonChan/learnsomething/tree/master/DAY_001/md_img/create.png)
 > 第一个按钮表示创建文件，第二个按钮表示创建目录。
 
 1. 点击第一个按钮创建文件。
@@ -46,10 +47,10 @@
 在文件创建之后，界面右侧就会显示刚才创建文件的内容（当然最开始肯定是光光的啦）。
 
 3. 编写代码。点击代码区，输入```html```四个字符，通常情况下，代码的下方会出现提示，如图：
-![avatar](./md_img/html.png)
+![avatar](https://github.com/YoosonChan/learnsomething/tree/master/DAY_001/md_img/html.png)
 选择```html:5```选项然后回车，编辑器就会自动补全代码。
 效果如图所示：
-![avatar](./md_img/init.png)
+![avatar](https://github.com/YoosonChan/learnsomething/tree/master/DAY_001/md_img/init.png)
 
 4. 没有提示的情况。
 如果没有提示就自己敲出来吧，当然你可以选择复制（Ctrl + C），粘贴（Ctrl + V）到编辑器里。
@@ -74,7 +75,7 @@
     当然，我们这里要在页面显示hello world就需要把代码写在标签```<body></body>```之中。其中每个网页在浏览器输入地址的地址栏上方有一个网页的标题，编写代码的时候就可以把标题内容写在```<title></title>```标签中。标签中的斜杠（/）表示的就是结束这个标签的标志。
 
     效果如图：
-    ![avatar](./md_img/hello_world.png)
+    ![avatar](https://github.com/YoosonChan/learnsomething/tree/master/DAY_001/md_img/hello_world.png)
 
 6. 保存代码（Ctrl + S）
 
@@ -85,4 +86,4 @@
 
     > tips: 如果你双击html文件不能打开网页，或者不是你想要的浏览器打开的话，你可以选择文件右键点击选择 **打开方式** 或者 **选择默认打开程序**。
 8. 最终效果
-    ![avatar](./md_img/fin.png)
+    ![avatar](https://github.com/YoosonChan/learnsomething/tree/master/DAY_001/md_img/fin.png)
