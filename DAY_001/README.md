@@ -1,4 +1,4 @@
-# DAY 001 每个程序员必不可少的Hello world.
+# DAY 001 【每个程序员必不可少的Hello World.】
 
 每个程序员学习一门新的编程语言都是从hello world开始。
 
