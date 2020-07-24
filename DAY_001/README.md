@@ -36,7 +36,8 @@
 
 ### 创建页面编写代码
 鼠标移至左侧目录，在你喜欢的目录的名称旁边会出现四个操作按钮，如图：
-    ![avatar](https://github.com/YoosonChan/learnsomething/blob/master/DAY_001/md_img/create.png)
+
+![avatar](https://github.com/YoosonChan/learnsomething/blob/master/DAY_001/md_img/create.png)
 > 第一个按钮表示创建文件，第二个按钮表示创建目录。
 
 1. 点击第一个按钮创建文件。
