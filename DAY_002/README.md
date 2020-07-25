@@ -24,7 +24,7 @@
 
 ## 代码编写讲解
 
-这次的效果就是让大家实现一个浮雕效果的东西。效果如图：
+这次的效果就是让大家实现一个浮雕效果的东西。效果如图：     
 ![avatar](https://github.com/YoosonChan/learnsomething/blob/master/DAY_002/md_img/fin.png)
 
 ### 脸上的工程
